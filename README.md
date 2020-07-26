@@ -6,4 +6,4 @@
 4. [Course 4: Convolutional Neural Networks](https://github.com/tuantla80/Deep-Learning-Specialization/tree/master/Course%204:%20Convolutional%20Neural%20Networks)  
 5. [Course 5: Sequence Models](https://github.com/tuantla80/Deep-Learning-Specialization/tree/master/Course%205:%20Sequence%20Models)  
 
-[Certificates](https://www.coursera.org/account/accomplishments/specialization/TRMS8NJNHD2X)
+   [Certificates](https://www.coursera.org/account/accomplishments/specialization/TRMS8NJNHD2X)
